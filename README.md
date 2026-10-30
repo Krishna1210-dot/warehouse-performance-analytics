@@ -1,4 +1,3 @@
-
 # Warehouse Performance Analytics
 
 A warehouse and supply chain analytics project using Python, SQL, SQLite, Pandas and Excel to analyse warehouse operations, inventory performance, order fulfilment and delivery costs.
