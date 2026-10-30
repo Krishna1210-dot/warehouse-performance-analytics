@@ -1,4 +1,3 @@
-# warehouse-performance-analytics
 
 # Warehouse Performance Analytics
 
